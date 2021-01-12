@@ -27,7 +27,7 @@
         "usePolyfill": false,
         "useTheme": true
         },
-        "vue-cli-plugin-holochain-simple": {}
+        "vue-cli-plugin-holochain-app-simple": {}
     },
     "vueVersion": "2",
     "cssPreprocessor": "dart-sass"
